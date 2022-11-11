@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.2"
+  },
+  "name": "ag-assessment",
+  "version": "1.0.0",
+  "main": "Solution1.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Solution1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
